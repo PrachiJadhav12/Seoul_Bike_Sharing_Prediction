@@ -7,6 +7,7 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 
 **Attribute Information:**
+
 • Date : year-month-day
 
 • Rented Bike count - Count of bikes rented at each hour
@@ -36,6 +37,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
 **Data Pipeline:**
+
 ● **Exploratory Data Analysis (EDA):** In this part we have done some EDA on the features to see the trend.
 
 ● **Data Processing:** In this part we went through each attributes and encoded the categorical features.
