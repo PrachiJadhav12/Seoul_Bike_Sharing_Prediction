@@ -53,6 +53,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 ● **Observation 3:** We are getting the best results from XGB model. So it is advisable to deploy XGBoost Gridsearch CV model.
 
 **Conclusions:**
+
 ● We started with loading the data, then we did Exploratory Data Analysis (EDA), null values treatment, feature selection, encoding of categorical columns, and then model building. In all of these models, our accuracy ranges from 56% to 91%, which can be said to be good for such a large dataset. This performance could be due to various reasons like the proper pattern of data, large data, or because of the relevant features.
 
 ● After performing variable importance analysis to find the most significant variables for all the models developed with the given data sets. We are getting the best results from XG Boost model.
