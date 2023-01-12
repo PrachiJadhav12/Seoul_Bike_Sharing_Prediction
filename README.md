@@ -36,7 +36,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-#**Data Pipeline:**
+# **Data Pipeline:**
 
 ● **Exploratory Data Analysis (EDA):** In this part we have done some EDA on the features to see the trend.
 
